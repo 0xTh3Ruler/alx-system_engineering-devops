@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -l "$(dirname "$(readlink -f "$0")")")"
+ls -l "$(dirname "$(readlink -f "$0")")"
