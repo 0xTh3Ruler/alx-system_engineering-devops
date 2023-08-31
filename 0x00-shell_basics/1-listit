@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "$(ls "$(dirname "$(readlink -f "$0")")")"
+=======
+
+>>>>>>> 33e3926f38c8ab2f9d7cf22d4c053f224f2bd972
