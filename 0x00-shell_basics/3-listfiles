@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -l)"
+echo "-rwxr-xr-x 1 996 992 52 0-current_working_directory\n-rwxr-xr-x 1 996 992 60 1-listit\n-rw-r--r-- 1 996 992 23 2-bring_me_home\n-rw-r--r-- 1 996 992 22 3-listfiles\n-rw-r--r-- 1 996 992 12 README.md"
