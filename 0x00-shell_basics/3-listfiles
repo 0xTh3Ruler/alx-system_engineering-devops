@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "-rwxr-xr-x 1 996 992 52 0-current_working_directory"
+echo "fsg"
